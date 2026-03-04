@@ -1,4 +1,4 @@
-👋 Hi, I’m @AdrianusWei, currently a junior at Harbin Institute of Technology, Shenzhen (HITSZ).
+👋 Hi, I’m @xuchen-w, currently a junior at Harbin Institute of Technology, Shenzhen (HITSZ).
 
 🔭 I’m interested in truly exciting topics, such as AGI and AI Scientists. 
 
@@ -9,6 +9,6 @@
 - Scaling agent intelligence beyond fixed base models using self-referential iteration and evolutionary algorithms. 
 
 <!---
-AdrianusWei/AdrianusWei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+xuchen-w/xuchen-w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
