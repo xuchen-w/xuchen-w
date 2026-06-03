@@ -1,4 +1,4 @@
-👋 Hi, I’m @xuchen-w, currently a junior at Harbin Institute of Technology, Shenzhen (HITSZ).
+👋 Hi, I’m @xuchen-w, currently a junior at Harbin Institute of Technology, Shenzhen (HITSZ) and a research intern at XtalPi Inc. 
 
 🔭 I’m interested in truly exciting topics, such as AGI and AI Scientists. 
 
