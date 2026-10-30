@@ -8,11 +8,6 @@
 
 - Scaling agent intelligence beyond fixed base models using self-referential iteration and evolutionary algorithms. 
 
-<p align="center">
-  <a><picture><img height="150px" src="https://beautiful-github-homepage.vercel.app/api?username=xuchen-w&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="xuchen-w" /></picture></a>
-  <a><picture><img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=xuchen-w&theme=gotham" alt="xuchen-w" /></picture></a>
-</p>
-
 > _“Everything should be made as simple as possible, but not simpler.”_
 
 <!---
